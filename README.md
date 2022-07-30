@@ -21,7 +21,7 @@
 ### 👉 <a href="https://replit.com/@GataNina-Li/Session-Md?lita=1&outputonly=1#.replit"><img title="Session" src="https://blog.replit.com/images/logo.png" width="90" /></a> 
 
 # Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GataNina-Li/MultiverseBot-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/apnavpn/MultiverseBot-MD)
 
 # Añada lo siguente al Buildpack
 ```bash
